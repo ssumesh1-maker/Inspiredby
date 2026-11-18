@@ -25,7 +25,7 @@ export default async function Detail({ params, searchParams }) {
   if (!entry) notFound();
   const related = relatedEntries(entries, entry);
   return (
-    <main className="shell main detail" id="content">
+    <main className="shell main" id="content">
       {staticPreview ? (
         <Suspense fallback={<BackToDiscovery slug={slug} />}>
           <StaticBackToDiscovery slug={slug} />
