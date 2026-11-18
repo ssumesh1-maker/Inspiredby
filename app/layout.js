@@ -16,7 +16,7 @@ const wordmark = ['svg', 'png', 'webp', 'jpg', 'jpeg'].find((ext) =>
 export default function Layout({ children }) {
   return (
     <html lang="en">
-      <body>
+      <body className={wordmark === 'png' ? 'has-png-wordmark' : undefined}>
         <a className="skip" href="#content">Skip to content</a>
         <header className="site-header">
           <div className="shell header-inner">
