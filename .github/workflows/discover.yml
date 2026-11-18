@@ -1,0 +1,31 @@
+name: Discover inspiration
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: discover-inspiration
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    if: vars.INSPIRED_BY_FEEDS != ''
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      INSPIRED_BY_FEEDS: ${{ vars.INSPIRED_BY_FEEDS }}
+      SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+      SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run ingest

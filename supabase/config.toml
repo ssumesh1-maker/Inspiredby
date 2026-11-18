@@ -1,0 +1,4 @@
+project_id = "inspiredby"
+
+[auth]
+enable_signup = false

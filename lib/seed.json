@@ -1,0 +1,199 @@
+[
+  {
+    "slug": "the-great-wave",
+    "title": "The Great Wave",
+    "creator": "Katsushika Hokusai",
+    "category": "Print",
+    "source": "The Met",
+    "tags": [
+      "japanese prints",
+      "water",
+      "landscape"
+    ],
+    "description": "Hokusai frames Mount Fuji through the curved silhouette of a breaking wave.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/45434",
+    "image_url": "/previews/the-great-wave.webp",
+    "image_alt": "A curling, blue-and-white wave towers over boats with Mount Fuji in the distance.",
+    "published_at": "2026-11-18T00:00:00.000Z"
+  },
+  {
+    "slug": "the-grand-tour",
+    "title": "The Grand Tour",
+    "creator": "NASA / JPL-Caltech",
+    "category": "Posters",
+    "source": "NASA JPL",
+    "tags": [
+      "space",
+      "travel",
+      "graphic design"
+    ],
+    "description": "A retro travel poster turns the Voyager mission’s outer-planet itinerary into a bold piece of typography and illustration.",
+    "original_url": "https://www.jpl.nasa.gov/images/the-grand-tour-jpl-travel-poster/",
+    "image_url": "/previews/the-grand-tour.webp",
+    "image_alt": "An illustrated outer-planet travel poster with orbit trails and bold display lettering.",
+    "published_at": "2026-11-17T00:00:00.000Z"
+  },
+  {
+    "slug": "earth-from-expedition-44",
+    "title": "Earth from Expedition 44",
+    "creator": "NASA",
+    "category": "Photography",
+    "source": "NASA",
+    "tags": [
+      "space",
+      "earth"
+    ],
+    "description": "A view of Earth photographed by a crew member aboard the International Space Station.",
+    "original_url": "https://images.nasa.gov/details/iss044e002419",
+    "image_url": "/previews/earth-from-expedition-44.webp",
+    "image_alt": "An orbital photograph of Earth taken aboard the International Space Station.",
+    "published_at": "2026-11-16T00:00:00.000Z"
+  },
+  {
+    "slug": "europa",
+    "title": "Europa",
+    "creator": "NASA / JPL-Caltech",
+    "category": "Posters",
+    "source": "NASA JPL",
+    "tags": [
+      "space",
+      "travel",
+      "graphic design"
+    ],
+    "description": "A speculative travel poster for Jupiter’s icy moon, from JPL’s Visions of the Future series.",
+    "original_url": "https://www.jpl.nasa.gov/images/europa-jpl-travel-poster/",
+    "image_url": "/previews/europa.webp",
+    "image_alt": "Illustrated Europa travel poster with bold lettering and a limited palette.",
+    "published_at": "2026-11-15T00:00:00.000Z"
+  },
+  {
+    "slug": "wheat-field-with-cypresses",
+    "title": "Wheat Field with Cypresses",
+    "creator": "Vincent van Gogh",
+    "category": "Painting",
+    "source": "The Met",
+    "tags": [
+      "landscape",
+      "texture"
+    ],
+    "description": "Van Gogh sets the deep vertical forms of cypresses against a field of wheat and rolling clouds.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/436535",
+    "image_url": "/previews/wheat-field-with-cypresses.webp",
+    "image_alt": "A golden field below white clouds and dark cypress trees.",
+    "published_at": "2026-11-14T00:00:00.000Z"
+  },
+  {
+    "slug": "duck-and-scallions",
+    "title": "Duck and Scallions",
+    "creator": "Ryūryūkyo Shinsai",
+    "category": "Print",
+    "source": "The Met",
+    "tags": [
+      "japanese prints",
+      "food"
+    ],
+    "description": "An intimate Japanese print from the Spring Rain Collection.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/54811",
+    "image_url": "/previews/duck-and-scallions.webp",
+    "image_alt": "A duck and scallions illustrated on a pale ground.",
+    "published_at": "2026-11-13T00:00:00.000Z"
+  },
+  {
+    "slug": "aqua-satellite",
+    "title": "Aqua Satellite",
+    "creator": "NASA",
+    "category": "Illustration",
+    "source": "NASA",
+    "tags": [
+      "space",
+      "earth"
+    ],
+    "description": "An artist’s concept of the Aqua satellite in orbit around Earth.",
+    "original_url": "https://images.nasa.gov/details/PIA18156",
+    "image_url": "/previews/aqua-satellite.webp",
+    "image_alt": "An illustration of a satellite with a wide solar panel above the blue Earth.",
+    "published_at": "2026-11-12T00:00:00.000Z"
+  },
+  {
+    "slug": "titan",
+    "title": "Titan",
+    "creator": "NASA / JPL-Caltech",
+    "category": "Posters",
+    "source": "NASA JPL",
+    "tags": [
+      "space",
+      "travel",
+      "graphic design"
+    ],
+    "description": "JPL imagines a cruise on Titan’s methane seas in the visual language of a vintage travel poster.",
+    "original_url": "https://www.jpl.nasa.gov/images/titan-jpl-travel-poster/",
+    "image_url": "/previews/titan.webp",
+    "image_alt": "An illustrated travel poster for a cruise on Saturn’s moon Titan.",
+    "published_at": "2026-11-11T00:00:00.000Z"
+  },
+  {
+    "slug": "oiso",
+    "title": "Ōiso",
+    "creator": "Utagawa Hiroshige",
+    "category": "Print",
+    "source": "The Met",
+    "tags": [
+      "japanese prints",
+      "landscape",
+      "travel"
+    ],
+    "description": "A woodblock print by Hiroshige from his studies of landscapes along the Tōkaidō.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/36553",
+    "image_url": "/previews/oiso.webp",
+    "image_alt": "A woodblock landscape depicting Ōiso.",
+    "published_at": "2026-11-10T00:00:00.000Z"
+  },
+  {
+    "slug": "shoes",
+    "title": "Shoes",
+    "creator": "Vincent van Gogh",
+    "category": "Painting",
+    "source": "The Met",
+    "tags": [
+      "texture",
+      "still life"
+    ],
+    "description": "Loaded brushwork and a muted palette turn a pair of shoes into a study in texture.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/436533",
+    "image_url": "/previews/shoes.webp",
+    "image_alt": "Worn shoes painted against a textured ground.",
+    "published_at": "2026-11-09T00:00:00.000Z"
+  },
+  {
+    "slug": "head-of-the-virgin",
+    "title": "Head of the Virgin",
+    "creator": "Leonardo da Vinci",
+    "category": "Drawing",
+    "source": "The Met",
+    "tags": [
+      "portrait",
+      "texture"
+    ],
+    "description": "Leonardo uses soft transitions in tone to model the face in this study.",
+    "original_url": "https://www.metmuseum.org/art/collection/search/337496",
+    "image_url": "/previews/head-of-the-virgin.webp",
+    "image_alt": "A softly shaded drawing of a head facing right.",
+    "published_at": "2026-11-08T00:00:00.000Z"
+  },
+  {
+    "slug": "earth-from-expedition-46",
+    "title": "Earth from Expedition 46",
+    "creator": "NASA",
+    "category": "Photography",
+    "source": "NASA",
+    "tags": [
+      "space",
+      "earth"
+    ],
+    "description": "An Earth observation image from the International Space Station.",
+    "original_url": "https://images.nasa.gov/details/iss046e009103",
+    "image_url": "/previews/earth-from-expedition-46.webp",
+    "image_alt": "An orbital photograph of Earth captured during Expedition 46.",
+    "published_at": "2026-11-07T00:00:00.000Z"
+  }
+]
